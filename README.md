@@ -1,0 +1,5 @@
+# MouseHemisphereMovie
+Contains a movie of the spiking simulation of the whole cortical mouse hemisphere activity
+
+
+The folder contains a movie of a neural spiking simulation of the whole cortical mouse hemisphere activity whose parameters (connectivity, external stimulus, adaptation, etc.) are inferred from wide-field optical imaging data of slow wave activity (SWA), in order to obtain a model with biological neural and synaptic resolution. The model is based on a columnar network of Adaptive exponential integrate-and-fire model neurons (Adex) composed of two populations of neurons, excitatory and inhibitory, respecting the usual proportion of 1:4 (inh:exc). The functional connectivity and other parameters for simulation of SWA activity of a whole hemisphere of the wild type mouse have been inferred from optical GECI calcium imaging GCaMP-6f recording (field of view: 4mmx5mm, pixel resolution: 50x50 µm2, temporal resolution: 40ms). Experimental data, acquired from mice, have been provided by the European Laboratory for Non-Linear Spectroscopy (LENS).
